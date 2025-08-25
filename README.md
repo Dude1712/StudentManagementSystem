@@ -5,7 +5,7 @@ This system allows users to **add, view, update, and delete student details** ea
 
 ---
 
-## 🚀 Features
+## Features
 - Add new student details (Name, Course, Fee, Email, Phone).
 - View all student records in a table format.
 - Update existing student details.
@@ -14,7 +14,7 @@ This system allows users to **add, view, update, and delete student details** ea
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Java** (JDK 17+ recommended)
 - **MySQL** (Workbench/Server)
 - **JDBC Driver** (MySQL Connector)
@@ -22,7 +22,7 @@ This system allows users to **add, view, update, and delete student details** ea
 
 ---
 
-## 📂 Database Setup
+## Database Setup
 Run the following SQL commands in MySQL Workbench:
 
 ```sql
